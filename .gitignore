@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+devApp.js
+config/myappenv.js
+public/img/logo.svg
